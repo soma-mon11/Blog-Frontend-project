@@ -1,0 +1,14 @@
+  <div >
+      <div className='commentsDiv' style={{ border: '2px solid #ccc',borderRadius: '10px' ,padding: '10px', margin: '10px', cursor: 'pointer' }}>
+        <img src={img} alt="Google Icon" width="40" height="40" />
+        <span><a href='https://www.google.com/'>Sign up with Google</a></span>
+      </div>
+      <div className='commentsDiv' style={{ border: '2px solid #ccc',borderRadius: '10px', padding: '10px', margin: '10px', cursor: 'pointer' }}>
+        <img src={img2} alt="Facebook Icon" width="40" height="40" />
+        <span><a href='https://www.facebook.com/'>Sign up with Facebook</a></span>
+      </div>
+      <div className='commentsDiv' style={{ border: '2px solid #ccc',borderRadius: '10px', padding: '10px', margin: '10px', cursor: 'pointer' }}>
+        <img src={img3} alt="Email Icon" width="40" height="40" />
+        <span><a href='https://accounts.google.com/'>Sign up with Email</a></span>
+      </div>
+    </div>
